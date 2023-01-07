@@ -28,5 +28,4 @@ import { UserRoles } from './roles/user-roles.model';
     RolesModule,
   ],
 })
-export class AppModule {
-}
+export class AppModule {}
